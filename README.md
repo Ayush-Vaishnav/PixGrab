@@ -48,12 +48,6 @@ macOS requires manual permission for screen capture and input monitoring:
 
 ---
 
-## 📸 Demo
-
-*(Add a screenshot or short GIF here showing the selection overlay and workflow)*
-
----
-
 ## 💻 Technical Details
 
 For developers who want to explore or modify the project:
